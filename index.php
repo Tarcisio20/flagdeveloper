@@ -53,12 +53,13 @@
 				</div>
 			</div>
 				<div class="row">
-					<div class="col-sm-4">
+					<div class="col-sm-4 marTop20">
 						<div class="about-logo">
-							<i class="fas fa-code"></i>
+							<!--<i class="fas fa-code"></i> -->
+							<img  src="assets/image/front1.png">
 						</div>
 					</div>
-					<div class="col-sm">
+					<div class="col-sm marTop20">
 						<div class="about-text">
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste delectus magnam libero laborum fuga reiciendis recusandae, quam tempora autem repellendus rem aperiam nihil nulla ex? Inventore blanditiis necessitatibus provident quae!</p>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste delectus magnam libero laborum fuga reiciendis recusandae, quam tempora autem repellendus rem aperiam nihil nulla ex? Inventore blanditiis necessitatibus provident quae!</p>
@@ -75,7 +76,8 @@
 					</div>
 					<div class="col-sm-4">
 						<div class="about-logo">
-							<i class="fas fa-code"></i>
+						<img  src="assets/image/back1.png">
+							<!-- <i class="fas fa-code"></i> -->
 						</div>
 					</div>
 				</div>
@@ -91,15 +93,42 @@
 			</div>
 			<div class="row">
 					<div class="col-sm marTop20">
-						<p>
+						<p class="text-service">
 						Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica.
 						</p>
 					</div>
 			</div>
 			<div class="row marTop20">
-				<div class="col-sm">Section 1</div>
-				<div class="col-sm">Section 2</div>
-				<div class="col-sm">Section 3</div>
+				<div class="col-sm">
+					<div class="box">
+						<div class="box-header">
+							FrontEnd
+						</div>
+						<div class="box-body">
+							Aqui vem o body
+						</div>
+					</div>
+				</div>
+				<div class="col-sm">
+				<div class="box">
+						<div class="box-header">
+							FrontEnd
+						</div>
+						<div class="box-body">
+							Aqui vem o body
+						</div>
+					</div>
+				</div>
+				<div class="col-sm">
+				<div class="box">
+						<div class="box-header">
+							FrontEnd
+						</div>
+						<div class="box-body">
+							Aqui vem o body
+						</div>
+					</div>
+				</div>
 			</div>
     </div>
 		</section>

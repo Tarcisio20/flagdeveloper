@@ -226,3 +226,29 @@ section#about{
   color: #a38a17;
   text-shadow: 1px 0 0 #000;
 }
+
+.about-logo img{
+  max-width: 300px;
+  height: auto;
+}
+
+.text-service{
+  color: #000;
+  font-size: 1.4rem;
+  text-shadow: 1px 0 15px  #fff;
+}
+
+.box{
+  border: 1px solid #a38a17;
+  border-radius: 5px;
+}
+
+.box .box-header{
+  background: #a38a17;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 1.200rem;
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+}
