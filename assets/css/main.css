@@ -133,7 +133,7 @@ header{
 .texts img{
   margin: 0 auto;
   display: block;
-  max-width: 300px;
+  max-width: 150px;
   height: auto; 
 }
 .texts h1{ 
@@ -144,13 +144,13 @@ header{
   font-size: 4.300rem;
   display: block;
   text-align: center;
-  color: #a38a17;
-  text-shadow: 1px 0 10px #000;
+  color: #ffd700;
+  text-shadow: 2px 0 20px #000;
 }
 
 .texts h1 span{ 
  color: rgba(163,138,23,1);
- text-shadow: 1px 0 10px rgba(0,0,0,.9);
+ text-shadow: 2px 0 20px #fff;
 }
 
 .texts p{ 
@@ -168,8 +168,8 @@ h1.title{
   font-family: 'Audiowide', cursive;
   float: right;
   z-index: -1;
-  color: #a38a17;
-  text-shadow: 1px 0 3px #000;
+  color: #ffd700;
+  text-shadow: 1px 0 5px #000;
 }
 
 h1.title:after{
